@@ -1,4 +1,4 @@
-# 🚀 Laboratorio: Instalación y uso básico de **Zabbix**
+# 🚀 Instalación y uso básico de **Zabbix**
 
 ## 🧠 ¿Qué es Zabbix?
 
